@@ -1,4 +1,4 @@
-project Black is
+project black is
    for Library_Name use "black";
    for Library_Version use "0.1.0";
 
@@ -8,4 +8,4 @@ project Black is
    for Object_Dir use "build/obj";
    for Library_Dir use "build/lib";
    for Library_Kind use "static";
-end Black;
+end black;
